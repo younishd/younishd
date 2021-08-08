@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🚀 I'm currently working on an unofficial [LXD wiki](https://lxd.younishd.fr)
-- 🏃 I speedrun minecraft
+- 🏃 I speedrun Minecraft
 - 🌱 I’m currently learning reinforcement learning
 - 💬 Ask me about bash nonsense…
 - 😄 Pronouns: he/him
