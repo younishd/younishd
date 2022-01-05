@@ -8,5 +8,6 @@ You can find me online:
 
 - [Twitter](https://twitter.com/younishd)
 - [LinkedIn](https://www.linkedin.com/in/younishd)
+- [GitHub](https://github.com/younishd)
 - [Instagram](https://instagram.com/younis24de)
 - [TikTok](https://www.tiktok.com/@younis24de)
