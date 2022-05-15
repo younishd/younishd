@@ -6,9 +6,10 @@ I'm a machine learning enthusiast who watches too many movies. I sometimes [play
 
 You can find me online:
 
+- [Medium](https://medium.com/@younishd)
+- [GitHub](https://github.com/younishd)
 - [Twitter](https://twitter.com/younishd)
 - [LinkedIn](https://www.linkedin.com/in/younishd)
-- [GitHub](https://github.com/younishd)
 - [Instagram](https://instagram.com/younis24de)
 - [TikTok](https://www.tiktok.com/@younis24de)
 - [Twitch](https://twitch.tv/neoprene1337)
