@@ -1,6 +1,6 @@
 # Hey! I'm [Younis](https://younishd.fr).
 
-# 🙋 ⌨️ 🍿 ♟️
+# 🙋 ⌨️ 🍿 ♟️ ✈️
 
 By day, I am a Cloud Engineer; by night, I buy a domain for my new side project.
 
